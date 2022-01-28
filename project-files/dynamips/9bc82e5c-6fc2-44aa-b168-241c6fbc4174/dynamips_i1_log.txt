@@ -1,0 +1,2 @@
+Dec 30 12:34:35.261 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+Dec 30 12:34:35.261 HYPERVISOR: Started on IP = localhost, TCP port = 58651.
